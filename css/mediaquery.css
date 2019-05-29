@@ -1,0 +1,194 @@
+/*FOR SCREENS LESS THAN 1024px WIDE*/
+@media screen and (max-width: 1024px) {
+
+	.content {
+		margin-bottom: 5%;
+	}
+
+	.cap-bot {
+		width: 100%;
+	}
+
+	.location h5 {
+		font-size: 40px;
+	}
+
+}
+/*FOR SCREENS LESS THAN 960px WIDE*/
+@media screen and (max-width: 960px) {
+
+	.hovertitle {
+		font-size: 50px;
+	}
+
+}
+
+/*FOR SCREENS LESS THAN 768px WIDE*/
+
+@media screen and (max-width: 768px) {
+
+	.updatedme {
+		width: 80%;
+	}
+
+	.littleinfo {
+		margin-top: -15%;
+		margin-bottom: 5%;
+		width: 100%;
+	}
+
+	.pagetitle {
+		margin-bottom: 5%;
+	}
+
+	.youngerself {
+		width: 80%;
+	}
+
+	.rightbodytext {
+		width: 90%;
+		margin-top: 7%;
+		margin-bottom: 5%;
+	}
+
+	.resumetitle {
+		margin-bottom: 4%;
+	}
+
+	.download {
+		width: 100%;
+		margin-top: 3%;
+		margin-bottom: 3%;
+	}
+
+	.contactform {
+		width: 98%;
+		margin-bottom: 5%;
+	}
+
+	.imthemap {
+		width: 98%;
+		margin-left: 0%;
+	}
+
+	.location h5 {
+		font-size: 50px;
+	}
+
+	.tileone {
+		width: 50%;
+		margin-left: 25%;
+		margin-top: 3%;
+		margin-bottom: 3%;
+	}
+
+	.tiletwo {
+		width: 50%;
+		margin-left: 25%;
+		margin-top: 3%;
+		margin-bottom: 3%;
+	}
+
+	.tilethree {
+		width: 50%;
+		margin-left: 25%;
+		margin-top: 3%;
+		margin-bottom: 3%;
+	}
+
+	.hovertitle {
+		font-size: 65px;
+		margin-top: 30%;
+	}
+
+	.projectcopy {
+		margin-top: 5%;
+		margin-bottom: 5%;
+	}
+
+}
+
+/*FOR SCREENS LESS THAN 667px WIDE*/
+@media screen and (max-width: 667px) {
+
+	.hovertitle {
+		font-size: 50px;
+	}
+
+}
+
+/*FOR SCREENS LESS THAN 568px WIDE*/
+@media screen and (max-width: 568px) {
+
+	.longarrow {
+		margin-top: 3%;
+	}
+
+	.hovertitle {
+		font-size: 55px;
+		margin-top: 40%;
+	}
+
+}
+
+/*FOR SCREENS LESS THAN 480px WIDE*/
+
+@media screen and (max-width: 480px) {
+
+	.longarrow {
+		margin-top: 4%;
+	}
+
+	.tileone {
+		width: 70%;
+		margin-left: 10%;
+		margin-top: 3%;
+		margin-bottom: 3%;
+	}
+
+	.tiletwo {
+		width: 70%;
+		margin-left: 10%;
+		margin-top: 3%;
+		margin-bottom: 3%;
+	}
+
+	.tilethree {
+		width: 70%;
+		margin-left: 10%;
+		margin-top: 3%;
+		margin-bottom: 3%;
+	}
+
+	.hovertitle {
+		font-size: 65px;
+		margin-top: 30%;
+	}
+
+	.location h5 {
+		font-size: 40px;
+	}
+
+}
+/*FOR SCREENS LESS THAN 414px WIDE*/
+
+@media screen and (max-width: 414px) {
+
+	h1 {
+		font-size: 35px;
+	}
+
+	.hovertitle {
+		font-size: 55px;
+		margin-top: 35%;
+	}
+
+	.location h5 {
+		font-size: 35px;
+	}
+
+}
+/*FOR SCREENS LESS THAN 320px WIDE*/
+@media screen and (max-width: 320px) {
+
+}
